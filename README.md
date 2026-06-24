@@ -30,4 +30,4 @@ end to end, across **Solana** and **EVM** chains.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waquar213&layout=compact&theme=tokyonight)
 
 ## 📫 Connect
-[Portfolio](https://waquar.dev) · [Upwork](https://www.upwork.com/freelancers/REPLACE-WITH-YOUR-ID) · [waquarmoazzam@gmail.com](mailto:waquarmoazzam@gmail.com)
+[Portfolio](https://waquar.dev) · [Upwork](https://www.upwork.com/freelancers/~01dfd2c6dc99c15b6b) · [waquarmoazzam@gmail.com](mailto:waquarmoazzam@gmail.com)
