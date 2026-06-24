@@ -21,6 +21,7 @@ end to end, across **Solana** and **EVM** chains.
 
 ## 🚀 Featured Projects
 - **[DeFi Staking Rewards](https://github.com/waquar213/defi-staking-rewards)** — Solidity staking protocol, Foundry-tested (Synthetix-style reward accounting)
+- **[Solana Staking](https://github.com/waquar213/solana-staking)** — Anchor staking program + dApp · Rust + Solana
 - **[Zenith](https://waquar.dev)** — DeFi platform · modular Solidity protocol (AMM / staking / lending)
 - **[PPay](https://waquar.dev)** — Crypto payments dApp on Solana · Rust + Anchor + React
 - **[RiskLayer](https://waquar.dev)** — On-chain risk-monitoring tool · indexers + real-time data
